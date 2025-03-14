@@ -1,0 +1,1 @@
+This project is a console-based simulation of a traffic signal system that manages vehicle flow at an intersection. The program dynamically adjusts signal durations based on real-time traffic conditions, ensuring smooth traffic movement. It also detects emergency vehicles and gives them priority, similar to a real-world intelligent traffic management system.
