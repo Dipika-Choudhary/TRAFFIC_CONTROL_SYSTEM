@@ -1,0 +1,50 @@
+Traffic Light Cycle:
+Vehicles Processed: 15
+Red Time: 10 seconds
+Green Time: 15 seconds
+-----------------------------------
+Traffic Light Cycle:
+Vehicles Processed: 20
+Red Time: 10 seconds
+Green Time: 20 seconds
+-----------------------------------
+Traffic Light Cycle:
+Vehicles Processed: 20
+Red Time: 10 seconds
+Green Time: 20 seconds
+-----------------------------------
+Traffic Light Cycle:
+Vehicles Processed: 25
+Red Time: 10 seconds
+Green Time: 25 seconds
+-----------------------------------
+Traffic Light Cycle:
+Vehicles Processed: 25
+Red Time: 10 seconds
+Green Time: 25 seconds
+-----------------------------------
+Traffic Light Cycle:
+Vehicles Processed: 15
+Red Time: 10 seconds
+Green Time: 15 seconds
+-----------------------------------
+Traffic Light Cycle:
+Vehicles Processed: 20
+Red Time: 10 seconds
+Green Time: 20 seconds
+-----------------------------------
+Traffic Light Cycle:
+Vehicles Processed: 20
+Red Time: 10 seconds
+Green Time: 20 seconds
+-----------------------------------
+Traffic Light Cycle:
+Vehicles Processed: 25
+Red Time: 10 seconds
+Green Time: 25 seconds
+-----------------------------------
+Traffic Light Cycle:
+Vehicles Processed: 10
+Red Time: 10 seconds
+Green Time: 10 seconds
+-----------------------------------
